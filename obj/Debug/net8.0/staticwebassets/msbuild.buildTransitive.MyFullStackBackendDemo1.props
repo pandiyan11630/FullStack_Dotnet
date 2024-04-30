@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyFullStackBackendDemo1.props" />
+</Project>
